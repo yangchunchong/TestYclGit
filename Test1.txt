@@ -1,5 +1,0 @@
-abcd
-123
-add fuc1
-add fuc2
-code conclick1
